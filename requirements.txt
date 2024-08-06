@@ -1,2 +1,8 @@
+langchain
+langchain-community
+python-dotenv
+langchain-google-genai
 streamlit
-openai
+langchain-groq
+langchain_core
+sentence_transformers
