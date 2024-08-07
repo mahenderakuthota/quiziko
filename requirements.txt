@@ -6,3 +6,4 @@ streamlit
 langchain-groq
 langchain_core
 sentence_transformers
+pypdf
